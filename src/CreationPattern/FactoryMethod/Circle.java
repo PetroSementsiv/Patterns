@@ -1,4 +1,4 @@
-package CreationPatterns.FactoryMethod;
+package CreationPattern.FactoryMethod;
 
 public class Circle implements  IShape {
     @Override

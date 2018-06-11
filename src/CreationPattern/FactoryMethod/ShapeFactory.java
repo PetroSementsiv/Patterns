@@ -1,4 +1,4 @@
-package CreationPatterns.FactoryMethod;
+package CreationPattern.FactoryMethod;
 
 public class ShapeFactory {
     public IShape getShape(String shapeType) {
