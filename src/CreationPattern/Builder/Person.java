@@ -1,4 +1,4 @@
-package Builder;
+package CreationPattern.Builder;
 
 public class Person {
     private String name;

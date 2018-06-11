@@ -1,4 +1,4 @@
-package Builder;
+package CreationPattern.Builder;
 
 public class BuilderPatternDemo {
     public static void main(String[] args){
