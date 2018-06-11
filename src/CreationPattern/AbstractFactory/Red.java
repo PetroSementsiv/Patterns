@@ -1,4 +1,4 @@
-package AbstractFactory;
+package CreationPattern.AbstractFactory;
 
 public class Red implements IColor {
     @Override

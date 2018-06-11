@@ -1,4 +1,4 @@
-package AbstractFactory;
+package CreationPattern.AbstractFactory;
 
 public abstract class AbstractFactory {
     abstract IColor getColor(String colortype);

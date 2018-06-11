@@ -1,4 +1,4 @@
-package AbstractFactory;
+package CreationPattern.AbstractFactory;
 
 public class Rectangle implements IShape {
     @Override

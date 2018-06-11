@@ -1,4 +1,4 @@
-package AbstractFactory;
+package CreationPattern.AbstractFactory;
 
 public class AbstractFactoryPatternDemo {
     public  static void main(String[] args){

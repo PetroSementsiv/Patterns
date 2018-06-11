@@ -1,4 +1,4 @@
-package AbstractFactory;
+package CreationPattern.AbstractFactory;
 
 public class FactoryProducer {
     public static AbstractFactory getFactory(String factoryType){

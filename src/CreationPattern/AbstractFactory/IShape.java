@@ -1,4 +1,4 @@
-package CreationPattern.FactoryMethod;
+package CreationPattern.AbstractFactory;
 
 public interface IShape {
     void draw();

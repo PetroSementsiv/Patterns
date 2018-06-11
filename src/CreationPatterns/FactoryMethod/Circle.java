@@ -1,6 +1,6 @@
-package AbstractFactory;
+package CreationPatterns.FactoryMethod;
 
-public class Circle implements IShape {
+public class Circle implements  IShape {
     @Override
     public void draw() {
         System.out.println("Inside Circle::draw() method");
